@@ -52,8 +52,8 @@ Ultrasonic-Distance-LCD-Buzzer/
 ├── ultrasonic_lcd_buzzer.ino
 ├── README.md
 │
-└── images/
-    ├── project.jpg
+└── project.jpg
+   
 
 
 
